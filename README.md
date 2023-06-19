@@ -5,9 +5,10 @@ Além da area de Web tenho interesse na area de Dados e IA e ja tenho alguma exp
 ## Projetos
 Aqui estão alguns dos meus projetos no GitHub:
 
-[Dashboard Admin](https://ottojvn.github.io/odin-admin-dashboard/) - Simula um dashboard de administração de algum sistema web qualquer, o proposito desse projeto é aprender sobre grids no CSS e portanto não possui nenhuma funcionalidade.
-[Sistema de Biblioteca](https://ottojvn.github.io/odin-library/) - Sistema de biblioteca que possiblita adicionar/remover livros e marca-los como lidos ou não lidos.
-[Sketchpad](https://ottojvn.github.io/odin-etch-a-sketch/) - Um bloco de desenhos simples feito com JavaScript.
-[Pedra Papel e Tesoura](https://ottojvn.github.io/odin-rock-paper-scissors/) - Um simples jogo feito para aprender os fundamentos de JavaScript e manipulação do DOM
-[Jogo da Velha](https://ottojvn.github.io/odin-tic-tac-toe/) - Este é um projeto que criei como parte do curso do Odin Project, o qual me ajudou a aprender sobre modularização e objetos utilizando o padrão Factory.
+- [Dashboard Admin](https://ottojvn.github.io/odin-admin-dashboard/) - Simula um dashboard de administração de algum sistema web qualquer, o propósito desse projeto é aprender sobre grids no CSS e, portanto, não possui nenhuma funcionalidade.
+- [Sistema de Biblioteca](https://ottojvn.github.io/odin-library/) - Sistema de biblioteca que possibilita adicionar/remover livros e marcá-los como lidos ou não lidos.
+- [Sketchpad](https://ottojvn.github.io/odin-etch-a-sketch/) - Um bloco de desenhos simples feito com JavaScript.
+- [Pedra Papel e Tesoura](https://ottojvn.github.io/odin-rock-paper-scissors/) - Um simples jogo feito para aprender os fundamentos de JavaScript e manipulação do DOM.
+- [Jogo da Velha](https://ottojvn.github.io/odin-tic-tac-toe/) - Este é um projeto que criei como parte do curso do Odin Project, o qual me ajudou a aprender sobre modularização e objetos utilizando o padrão Factory.
+
 Fique à vontade para explorar os projetos e fornecer feedback. Estou sempre em busca de aprimorar minhas habilidades e expandir meu conhecimento.
