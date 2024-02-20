@@ -1,5 +1,5 @@
 ## Sobre mim
-Sou um estudante de Ciência da Computação na UFG (Universidade Federal de Goiás). Meu foco atual de estudo é o Desenvolvimento Web, seguindo o currículo do Odin Project. Estou aprendendo os fundamentos de HTML, CSS e JavaScript sem utilizar frameworks, e em breve pretendo avançar para React e Node.js.
+Estudante de Ciência da Computação na UFG, atuo como voluntário na equipe de projetos da Level5 Jr., empresa júnior da UFG, desenvolvendo sites em WordPress. Estudo React, Node.js, Express, MongoDB e .NET, desenvolvendo projetos de aprendizado. Domino C, Java e Python linguagens utilizadas na faculdade. Possuo experiência em montagem de computadores e conhecimentos em sistemas operacionais Windows e Linux.
 Além da area de Web tenho interesse na area de Dados e IA e ja tenho alguma experencia com Python e algumas bibliotecas como Pandas e Seaborn
 
 ## Projetos
